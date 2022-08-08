@@ -1,0 +1,13 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.square {
+    margin: 200px;
+    margin-left: 500px;
+    width: 250px;
+    height: 250px;
+    background: #ff0000;
+}
+
